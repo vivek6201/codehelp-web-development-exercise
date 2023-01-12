@@ -1,0 +1,41 @@
+.left{
+    width: 20%;
+    height: 10rem;
+    position: absolute;
+    top: 1rem;
+    border: 1px solid black;
+    left: 1rem;
+}
+.right{
+    width: 20%;
+    height: 10rem;
+    position: absolute;
+    border: 1px solid black;
+    top: 1rem;
+    right: 1rem;
+}
+.bottom-left{
+    width: 20%;
+    height: 10rem;
+    position: absolute;
+    border: 1px solid black;
+    bottom: 1rem;
+    left: 1rem;
+}
+.bottom-right{
+    width: 20%;
+    height: 10rem;
+    position: absolute;
+    border: 1px solid black;
+    background-image: conic-gradient(red,green);
+    bottom: 1rem;
+    right: 1rem;
+}
+.center{
+    width: 20%;
+    height: 10rem;
+    border: 1px solid black;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
